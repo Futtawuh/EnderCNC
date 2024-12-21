@@ -28,6 +28,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 ## What you probably need to buy:
 
 * 2x 8MM ID bearings (correct dimensions to be added)
+* 2x 400mm 10mm rods
 * 2x lmu10 something bearings to be updated
 * 400mm 2040 for x axis
 * 2x 8mm ID 20t pulleys
