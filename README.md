@@ -25,7 +25,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 ## Things you can salvage from the Ender 3:
 
 * Frame
-* Motors
+* Steppers
 * PSU
 * MCU
 * Leadscrew
@@ -37,6 +37,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * v wheels
 * aluminium spacers from v wheels
 * bed carriage ( see why lower down)
+* some wires
 
 
 ## What you probably need to buy:
