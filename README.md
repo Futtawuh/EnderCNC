@@ -4,7 +4,7 @@
 
 ### Got too many Enders laying around? Dont need a 5th Trident? Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
-Based on the Ender 3 Pro frame, but if you buy extrusions you could scale it up without issues.(why would you even do that) 
+Based on the Ender 3 Pro frame, but if you buy extrusions you could scale it up without issues.(why would you even do that) If you have an old Ender or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender for this.
 
 Its running Klipper, not the best for CNC but good enough for basic milling/engraving etc. And i cba learning another OS atm.
 
@@ -84,4 +84,5 @@ My plan is to add 2 more versions, one using only v wheels from the ender on all
 
 
 ## Closing words:
-My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. You are free to remix and mod as much as you want, just show me what you made \o/
+
+My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. You are free to remix and mod as much as you want, just show me what you made \o/ Be safe, dont crash it too hard.
