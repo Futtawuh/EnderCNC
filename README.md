@@ -10,7 +10,7 @@
 https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
 
 
-### Got too many Enders laying around? Dont need a 5th Trident? Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
+### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
 Based on the Ender 3 Pro frame, but if you buy extrusions you could scale it up without issues.(why would you even do that) If you have an old Ender or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender for this.
 
