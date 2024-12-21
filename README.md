@@ -99,7 +99,7 @@ Dont have any aluminium? well thats why the x plate is 4mm, and so is your ender
 * Slimmer Z carriage.
 * MCU case for the Creality 4.2.2/4.2.7 boards. (I used a SKR pico)
 * PSU case for Ender 3 PSU. (i used another spare)
-* MNG12/15H for Y axis, 2 blocks pr side or thicker rods with 2x bearings on each side.
+* MGN12/15H for Y axis, 2 blocks pr side or thicker rods with 2x bearings on each side.
 * MGN12/15H for X axis , pref 2 rails 4 blocks.
 or any other types of beefy rails really.
 * LED/RGB for max speed.
