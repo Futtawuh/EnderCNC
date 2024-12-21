@@ -76,9 +76,12 @@ Dont have any aluminium? well thats why the x plates are 4mm, and so is your end
 ## Whats to come?
 * (no promise, please help me with mods lol) 
 
+* Vacuum attachment.
+* LED/RGB for max speed.
 * MNG12/15H for Y axis, 2 blocks pr side or thicker rods with 2x bearings on each side.
 * MGN12/15H for X axis , pref 2 rails 4 blocks.
 or any other types of beefy rails really.
+
 
 My plan is to add 2 more versions, one using only v wheels from the ender on all axis for a super cheap build, and one for mgn rails on all axis as a "i hate my money" option. 
 
