@@ -92,6 +92,7 @@ Dont have any aluminium? well thats why the x plate is 4mm, and so is your ender
 
 ## Whats to come?
 * (no promises, please help me with mods lol) 
+* Basic build guide?
 * Vacuum attachment.
 * Basic FW for SKR pico, Creality 4.2.2/4.2.7
 * Basic Macros for Klipper
