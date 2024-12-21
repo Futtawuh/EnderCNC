@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
 
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
-Based on the Ender 3 Pro frame, but if you buy extrusions you could scale it up without issues.(why would you even do that) If you have an old Ender or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender for this.
+Mostly based on the Ender 3 Pro 3D printer, but if you buy extrusions you could scale it up without issues.(why would you even do that) If you have an old Ender 3 or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender 3 for this.
 
 Its running Klipper, not the best for CNC but good enough for basic milling/engraving etc.
 
@@ -84,8 +84,8 @@ This was never really ment to be shared as it was a personal pet project, it use
 
 ## X carriage plates: 
 
-X plates are printed, front one is mounted to mgn9 rails and stiff enough, back x plate is not stiff enough and should be the first part you mill out of aluminum once its up and running and found your feeds/speeds. Or you could print out a 1:1 scale of the x_back_plate.dxf on a sheet of paper, glue it to a piece of aluminium and do it by hand/bandsaw/drillpress etc.
-Dont have any aluminium? well thats why the x plate is 4mm, and so is your enders bed carriage! Just be sure to only use the correct holes during assembly. 
+X plates are printed, front one is mounted to mgn9 rails and stiff enough, back x plate is not stiff enough and should be the first part you mill out of aluminum once its up and running and found your feeds/speeds. Or you could print out a 1:1 scale of the x_back_plate.dxf on a sheet of paper, glue it to a piece of aluminium and do it by hand/bandsaw/drillpress etc. (See DXF folder for .dxf or .pdf)
+Dont have any aluminium? well thats why the x plate is 4mm, and so is your enders bed carriage! Just be sure to use the correct holes during assembly. 
 ![image](https://github.com/user-attachments/assets/c4f19946-c595-4232-bdd7-9e3ad63d106a)
 
 
@@ -105,7 +105,7 @@ or any other types of beefy rails really.
 * LED/RGB for max speed.
 
 
-My plan is to add 2 more versions, one using only v wheels from the Ender on all axis for a super cheap build, and one for MGN rails on all axis as a "i hate my money" option. 
+My plan is to add 2 more versions, one using only v wheels from the Ender 3 on all axis for a super cheap build, and one for MGN rails on all axis as a "i hate my money" option. 
 
 
 ## Closing words:
