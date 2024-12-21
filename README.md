@@ -63,7 +63,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 
 * All parts are PLA, printed with voron recommend walls/infill. 
 * X plates are 100% infill.
-* Dremel holder is designed for my spesific one. so unless you have a Biltema store near you , youll have to test fit yours or edit the dimensions. (if you have a biltema near get the MG150) its a clamp/screw mechanisms tho so might fit more types.
+* Dremel holder is designed for my spesific one. so unless you have a Biltema store near you , youll have to test fit yours or edit the dimensions. (if you have a biltema near get the MG150) its a clamp/screw mechanism, so might fit more types of dremels.
 * Only part that needs support is the z motor mount, but its not much.
 * You should print out the lmu bearing test print to see that they fit snug. (to be added)
 
