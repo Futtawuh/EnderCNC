@@ -1,5 +1,7 @@
 # EnderCNC
 
+## VERY VERY BETA project.
+
 ### Got too many Enders laying around? Dont need a 5th Trident? Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
 Based on the Ender 3 Pro frame, but if you buy extrusions you could scale it up without issues.(why would you even do that) 
