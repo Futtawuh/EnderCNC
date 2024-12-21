@@ -37,7 +37,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * a Dremel higher w the better.(500+w spindel ~Ø55 would be sick tho anything bigger would eat too much cutting area)
 * maybe a limit switch or two?
 * 5mm id 20t pulleys
-
+* closed loop belt to be updated, same as the M4 extruder 
 
 ## Printed parts:
 
