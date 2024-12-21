@@ -32,6 +32,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 ## What you probably need to buy:
 
 * 2x 8MM ID bearings (8x22x7)
+* 4x F695 ZZ bearings
 * 2x 400mm Ø10mm rods
 * 2x LMK10L (55mm long bearings) 
 * 400mm 2040 for x axis
