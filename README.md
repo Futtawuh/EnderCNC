@@ -2,7 +2,8 @@
 
 ## VERY VERY BETA project.
 
-![image](https://github.com/user-attachments/assets/434fe516-9e67-4e6e-b552-b61e662b8d1e)
+![image](https://github.com/user-attachments/assets/de257c63-5e4d-4829-91a2-60f41d26e5db)
+
 
 
 
