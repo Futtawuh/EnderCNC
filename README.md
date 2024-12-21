@@ -46,6 +46,10 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 
 Dremel holder is designed for my spesific one. so unless you have a Biltema store near you , youll have to test fit yours or edit the dimensions. (if you have a biltema near get the MG150) its a clamp/screw mechanisms tho so might fit more types.
 
+* only part that needs support is the z motor mount, but its not much.
+* you should print out the lmu bearing test print to see that they fit snug. 
+
+
 
 ## Why all the random parts? 
 
@@ -61,7 +65,7 @@ This was never really ment to be shared as it was a personal pet project, it use
 
 ## X carriage plates: 
 
-X plates are printed, front one is mounted to mgn9 rails and stiff enough, back x plate is not stiff enough and should be the first part you mill out of aluminum once its up and running and found your feeds/speeds. Or you could print out a 1:1 scale of the x_back_plate.dxf on a sheet of paper, glue it to a piece of aluminium and do it by hand/badsaw/drillpress etc.
+X plates are printed, front one is mounted to mgn9 rails and stiff enough, back x plate is not stiff enough and should be the first part you mill out of aluminum once its up and running and found your feeds/speeds. Or you could print out a 1:1 scale of the x_back_plate.dxf on a sheet of paper, glue it to a piece of aluminium and do it by hand/bandsaw/drillpress etc.
 Dont have any aluminium? well thats why the x plates are 4mm, and so is your enders bed carriage! 
 
 
@@ -73,3 +77,7 @@ Dont have any aluminium? well thats why the x plates are 4mm, and so is your end
 or any other types of beefy rails really.
 
 My plan is to add 2 more versions, one using only v wheels from the ender on all axis for a super cheap build, and one for mgn rails on all axis as a "i hate my money" option. 
+
+
+## Closing words:
+My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. You are free to remix and mod as much as you want, just show me what you made \o/
