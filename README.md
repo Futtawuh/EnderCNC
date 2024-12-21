@@ -43,17 +43,17 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 ## What you probably need to buy:
 
 * 2x 8MM ID bearings (8x22x7)
-* 4x F695 ZZ bearings
+* 4x F695 ZZ bearings (could use 2x GT2 non-teeth pulleys)
 * 2x 400mm Ø10mm rods
 * 2x LMK10L (55mm long bearings) 
 * 400mm V SLOT 2040 for x axis
-* 2x 8mm ID 20t pulleys
+* 2x 8mm ID 20teeth pulleys
 * some length of 6mm belt (to be updated, but not much needed)
 * assortment of nuts and bolts (to be updated)
 * MGN9H - 2x blocks, 2x 120mm rails, accoring to CAD you can get away with 2x 100mm rails but this is NOT tested.  
 * a Dremel higher w the better.(500+w spindel ~Ø55 would be sick tho anything bigger would eat too much cutting area)
 * Maybe a limit switch or two? ( X - YY - Z)
-* 5mm id 20t pulleys
+* 5mm id 20teeth pulleys
 * GT2 Belt Loop (6mm wide) - 188mm
 * Heat inserts M3x5x4
 * Raspberry pi. (If you can find an old laptop for free/cheap, install Ubuntu on that and install klipper/mainsail etc on that as a cheap Rpi) 
