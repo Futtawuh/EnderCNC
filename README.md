@@ -88,6 +88,8 @@ Dont have any aluminium? well thats why the x plate is 4mm, and so is your ender
 ## Whats to come?
 * (no promises, please help me with mods lol) 
 * Vacuum attachment.
+* Basic FW for SKR pico, Creality 4.2.2/4.2.7
+* Basic Macros for Klipper
 * Slimmer Z carriage.
 * MCU case for the Creality 4.2.2/4.2.7 boards. (I used a SKR pico)
 * PSU case for Ender 3 PSU. (i used another spare)
