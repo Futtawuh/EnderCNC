@@ -80,7 +80,7 @@ This was never really ment to be shared as it was a personal pet project, it use
 * 10mm rods are probably not the best
 * v wheels on x axis
 * x plates are printed ( see more info lower)
-* x/z carriage homes "over" the y extrusions, causing you to crash into the side of the extrusion when z is low. In my "beta" one i have X0 10mm away from the limit switch and 10mm less max travel on X max, this means Z will always have to home first, see my home overwrite macro. This should be fixed in a CAD but not tested with new parts. 
+* x/z carriage homes "over" the y extrusions, causing you to crash into the side of the extrusion when z is low. In my "beta" one i have X0 10mm away from the limit switch and 10mm less max travel on X max, this means Z will always have to home first, see my home overwrite macro. This should be fixed in CAD, but not tested with new parts. 
 
 ## X carriage plates: 
 
