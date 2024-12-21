@@ -41,7 +41,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * 4x F695 ZZ bearings
 * 2x 400mm Ø10mm rods
 * 2x LMK10L (55mm long bearings) 
-* 400mm 2040 for x axis
+* 400mm V SLOT 2040 for x axis
 * 2x 8mm ID 20t pulleys
 * some length of 6mm belt (to be updated, but not much needed)
 * assortment of nuts and bolts (to be updated)
