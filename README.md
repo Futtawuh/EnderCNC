@@ -57,7 +57,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * GT2 Belt Loop (6mm wide) - 188mm
 * Heat inserts M3x5x4
 * Raspberry pi. (If you can find an old laptop for free/cheap, install Ubuntu on that and install klipper/mainsail etc on that as a cheap Rpi) 
-  (I had all these parts laying around from older projects)
+* ### (I had all these parts laying around from older projects)
 
 ## Printed parts:
 
