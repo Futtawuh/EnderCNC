@@ -29,7 +29,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * 1 length of belt (just buy new for all axis)
 * handfull of screws
 * limit switches (depin from their pcb)
-* ptfe tube
+* ptfe tube (used as "dragchain")
 * v wheels
 * aluminium spacers from v wheels
 * bed carriage ( see why lower down)
