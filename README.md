@@ -61,6 +61,7 @@ This was never really ment to be shared as it was a personal pet project, it use
 
 ## Weakpoints: (so far)
 
+* Youll have to extend stepper wires. 
 * 10mm rods are probably not the best
 * v wheels on x axis
 * x plates are printed ( see more info lower)
