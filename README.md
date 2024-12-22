@@ -111,3 +111,4 @@ My plan is to add 2 more versions, one using only v wheels from the Ender 3 on a
 ## Closing words:
 
 My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. You are free to remix and mod as much as you want, just show me what you made \o/ Be safe, add an emergency stop and dont crash it too hard.
+Discord: ravenkeeper
