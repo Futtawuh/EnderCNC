@@ -8,4 +8,4 @@
 
 * Create Github
 * Added CAD files
-* Added DFX
+* Added DXF / PDF file of x gantry back plate.
