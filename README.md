@@ -102,13 +102,16 @@ Dont have any aluminium? well thats why the x plate is 4mm, and so is your ender
 * MGN12/15H for Y axis, 2 blocks pr side or thicker rods with 2x bearings on each side.
 * MGN12/15H for X axis , pref 2 rails 4 blocks.
 or any other types of beefy rails really.
-* LED/RGB for max speed.
+* LED/RGB for max speed?
 
 
-My plan is to add 2 more versions, one using only v wheels from the Ender 3 on all axis for a super cheap build, and one for MGN rails on all axis as a "i hate my money" option. 
+My plan is to add 2 more versions, one using only v wheels from the Ender 3 on all axis for a super cheap build, and one for MGN rails on all axis as a "i hate my money" option. (this will take time)
 
+## Mods:
+
+You are free to remix and mod as much as you want, just show me what you made and we'll add it to the Mods folder with full credit to the author of the mod.
 
 ## Closing words:
 
-My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. You are free to remix and mod as much as you want, just show me what you made \o/ Be safe, add an emergency stop and dont crash it too hard.
-Discord: ravenkeeper
+My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. Be safe, add an emergency stop and dont crash it too hard.
+# Discord: ravenkeeper
