@@ -50,6 +50,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * 2x 8mm ID 20teeth pulleys
 * some length of 6mm belt (to be updated, but not much needed)
 * assortment of nuts and bolts (to be updated)
+* m5 T-nuts or m5 roll'ins.
 * MGN9H - 2x blocks, 2x 120mm rails, accoring to CAD you can get away with 2x 100mm rails but this is NOT tested.  
 * a Dremel higher w the better.(500+w spindel ~Ø55 would be sick tho anything bigger would eat too much cutting area)
 * Maybe a limit switch or two? ( X - YY - Z)
