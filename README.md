@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
 
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
-Mostly based on the Ender 3 Pro 3D printer, but if you buy extrusions you could scale it up without issues.(why would you even do that) If you have an old Ender 3 or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender 3 for this.
+Mostly based on the Ender 3 Pro 3D printer. If you have an old Ender 3 or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender 3 for this.
 
 Its running Klipper, not the best for CNC but good enough for basic milling/engraving etc.
 
@@ -69,12 +69,6 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * You should print out the lmu bearing test print to see that they fit snug. (to be added)
 
 
-
-## Why all the random parts? 
-
-This was never really ment to be shared as it was a personal pet project, it used 98% parts i had laying around and was made with those parts in mind, so thats why it has some
-.. strange choices. My goal was to not spend a lot of money, it cost me around 20$ in nuts, bolts and 8mm ID bearings/pulleys.  (not counting price for parts i had on hand)
-
 ## Weakpoints: (so far)
 
 * Youll have to extend stepper wires. 
@@ -105,8 +99,10 @@ Dont have any aluminium? well thats why the x plate is 4mm, and so is your ender
 or any other types of beefy rails really.
 * LED/RGB for max speed?
 
+## Why all the random parts? 
 
-My plan is to add 2 more versions, one using only v wheels from the Ender 3 on all axis for a super cheap build, and one for MGN rails on all axis as a "i hate my money" option. (this will take time)
+This was never really ment to be shared as it was a personal pet project, it used 98% parts i had laying around and was made with those parts in mind, so thats why it has some
+.. strange choices. My goal was to not spend a lot of money, it cost me around 20$ in nuts and bolts.
 
 ## Mods:
 
@@ -114,5 +110,5 @@ You are free to remix and mod as much as you want, just show me what you made an
 
 ## Closing words:
 
-My first real project in fusion, so there might be issues here and there. Any suggestions and help is greatly appreciated. Be safe, add an emergency stop and dont crash it too hard.
+Any suggestions,help and feedback is greatly appreciated. Be safe, add an emergency stop and dont crash it too hard.
 # Discord: ravenkeeper
