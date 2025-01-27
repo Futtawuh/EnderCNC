@@ -1,3 +1,8 @@
+# 27.01.25
+
+* New macros for klipper, pause, cancel and resume seems to be working, will upload this week if everything seems fine (original mainsail macros didnt work for cnc applications)
+CAD still under updating from testing, to be updated soon!
+
 # 02.01.25
 
 * Added 8mm rod mod CAD, using 8mm rods and 2x LMU8 bearings on each side for stiffness. (45mm long x2)
