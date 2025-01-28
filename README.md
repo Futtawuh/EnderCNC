@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/92859aa1-7ed4-4385-81ab-ec51dbf1d837
 
 https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
 
+# (Residue on the bit is just sticky-tape from doing the holes)
+
 https://github.com/user-attachments/assets/a4f48e41-3836-4eb9-8406-88c55c8b1824
 
 ![part](https://github.com/user-attachments/assets/84995a64-6b96-4889-8dd5-63da7fdcb275)
