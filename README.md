@@ -4,14 +4,15 @@
 
 ![image](https://github.com/user-attachments/assets/de257c63-5e4d-4829-91a2-60f41d26e5db)
 
-
-
-
-
 https://github.com/user-attachments/assets/92859aa1-7ed4-4385-81ab-ec51dbf1d837
 
-
 https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
+
+https://github.com/user-attachments/assets/a4f48e41-3836-4eb9-8406-88c55c8b1824
+
+![part](https://github.com/user-attachments/assets/84995a64-6b96-4889-8dd5-63da7fdcb275)
+
+
 
 
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
