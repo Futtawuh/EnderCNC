@@ -1,6 +1,6 @@
 # EnderCNC
 
-## VERY VERY BETA project.
+## VERY VERY BETA project. Remember to check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CAD. 
 
 ![image](https://github.com/user-attachments/assets/de257c63-5e4d-4829-91a2-60f41d26e5db)
 
