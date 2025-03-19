@@ -71,8 +71,6 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * X plates are 100% infill.
 * Dremel holder is designed for my spesific one. so unless you have a Biltema store near you , youll have to test fit yours or edit the dimensions. (if you have a biltema near get the MG150) its a clamp/screw mechanism, so might fit more types of dremels.
 * Only part that needs support is the z motor mount, but its not much.
-* You should print out the lmu bearing test print to see that they fit snug. (to be added)
-
 
 ## Weakpoints: (so far)
  
@@ -86,7 +84,6 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 X plates are printed, front one is mounted to mgn9 rails and stiff enough, back x plate is not stiff enough and should be the first part you mill out of aluminum once its up and running and found your feeds/speeds. Or you could print out a 1:1 scale of the x_back_plate.dxf on a sheet of paper, glue it to a piece of aluminium and do it by hand/bandsaw/drillpress etc. (See DXF folder for .dxf or .pdf)
 Dont have any aluminium? well thats why the x plate is 4mm, and so is your enders bed carriage! Just be sure to use the correct holes during assembly. You can go for a thicker back plate, but youll need longer flathead screws for the wheels.
 ![image](https://github.com/user-attachments/assets/c4f19946-c595-4232-bdd7-9e3ad63d106a)
-
 
 
 ## Whats to come?
