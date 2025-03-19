@@ -1,6 +1,8 @@
 # EnderCNC
 
-## VERY VERY BETA project. Remember to check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CAD. 
+# Always check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CAD. 
+
+## VERY VERY BETA project. 
 
 ![image](https://github.com/user-attachments/assets/de257c63-5e4d-4829-91a2-60f41d26e5db)
 
@@ -48,7 +50,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 * 2x 8MM ID bearings (8x22x7)
 * 4x F695 ZZ bearings (could use 2x GT2 non-teeth pulleys)
 * 2x 400mm Ø10mm rods
-* 2x LMK10L (55mm long bearings) 
+* 2x LMK10LUU (55mm long bearings) 
 * 400mm V SLOT 2040 for x axis
 * 2x 8mm ID 20teeth pulleys
 * some length of 6mm belt (to be updated, but not much needed)
@@ -73,8 +75,7 @@ In my testing it had no issues with wood as to be expected. No issues cutting an
 
 
 ## Weakpoints: (so far)
-
-* Youll have to extend stepper wires. 
+ 
 * 10mm rods are probably not the best
 * v wheels on x axis
 * Obviously the Dremel, locked into 3.1mm shaft bits, but still good enough for aluminium.
