@@ -3,14 +3,18 @@
 * Added belt tension system for the Y belts on the Y motor carriages.
  ![image](https://github.com/user-attachments/assets/b5478c03-ce43-4771-a19f-6c389b5a7d62)
 
-* Added "splash-guards" to limit debris from spilling over to the Y axis belts and rods.
+* Added "splash-guards" to limit debris from spilling over to the Y axis belts and rods. ( need to cut them in half in slicer unless you have a 400mm printer )
  ![image](https://github.com/user-attachments/assets/277b22a7-b80d-45ae-b5ac-68bf7e713d5e)
  ![image](https://github.com/user-attachments/assets/0d0ba5f0-c7e6-4111-8ce4-698545a82e9a)
 
-* Maktia 700 series ( Ø65mm spindle ) clamping added.
+* Maktia 700 series ( or other Ø65mm spindle ) clamp added.
  ![image](https://github.com/user-attachments/assets/ac3a088d-0fb5-4ece-8c02-d77362ae9d74)
 
-* Remixed Z carriage for more Z travel.
+* Remixed Z carriage for more Z travel. But you'll have to cut the teethed part off a 8mmID 20t pulley, or use another 8mmID locking nut on the Z leadscrew. (lower 20t pulley cut to size on picture below)
+
+![image](https://github.com/user-attachments/assets/a7245a7b-c5ac-42ec-849a-a8e3474557ab)
+
+
 * Bigger holes for ziptie cable management.
 * Several fixes to the XY joints:
   - Fixed so the X carriage cant home over the Y extrusion.
