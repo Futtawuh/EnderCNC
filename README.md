@@ -21,13 +21,13 @@ https://github.com/user-attachments/assets/a4f48e41-3836-4eb9-8406-88c55c8b1824
 
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try the EnderCNC, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
-Mostly based on the Ender 3 Pro 3D printer. If you have an old Ender 3 or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender 3 for this.
+Mostly based on the Ender 3 PRO 3D printer. If you have an old Ender 3 PRO or find one dirt cheap it might be a worthwhile build and a cheap CNC. Please dont go out buying a new Ender 3 PRO for this.
 
 Its running Klipper, not the best for CNC but good enough for basic milling/engraving etc.
 
 In my testing it had no issues with wood as to be expected. No issues cutting and engraving acrylics. Biggest surprise was that it could do aluminium with ease on a 150w 20$ dremel. More testing to be done.
 
-## Things you can salvage from the Ender 3:
+## Things you can salvage from the Ender 3 PRO:
 
 * Frame
 * Steppers
