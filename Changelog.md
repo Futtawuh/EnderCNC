@@ -15,7 +15,8 @@
 * Several fixes to the XY joints:
   - Fixed so the X carriage cant home over the Y extrusion.
   - Shorter screws for the Y belt clamps.
-  - Longer XY joints with 55mm + 29mm LM bearings for more stability (optional)  
+  - Longer XY joints with 55mm + 29mm LM bearings for more stability (optional)
+  - You can now use either LMK10LUU or LMK10LUU + LM10UU for the XY joints. Using LMK+LMU does not reduce cutting area.
 
 
 # 02.01.25
