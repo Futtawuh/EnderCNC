@@ -3,7 +3,8 @@
 # Always check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CAD. 
 
 ## VERY VERY BETA project. 
-![image](https://github.com/user-attachments/assets/a6b7d7cb-9a70-4fdb-8626-d5ce13962ba8)
+![image](https://github.com/user-attachments/assets/4fdbd47c-db93-434c-96d5-8c7f652f5494)
+
 
 
 
