@@ -1,3 +1,18 @@
+# 20.03.25
+
+* Udated CAD file. Added new look to the XY joints as the original was kinda lacking in the looks department. Added both dual bearing and single bearing version. (if you want the original one they are also in the CAD) 
+ ![image](https://github.com/user-attachments/assets/81c28c7d-b4e1-4f66-945f-cb4537701f71)
+
+* Relocated the X endstop to be in-set into the LEFT XY joint.
+- (Wires coming out on the other side where the wire loom connects to the XY joint)
+ ![image](https://github.com/user-attachments/assets/72169edb-7ff0-4be8-b07c-790239b258be)
+
+* Comparison old vs new.
+ ![image](https://github.com/user-attachments/assets/fbcdb3ec-ad21-4d07-9da9-d30c44a10cf9)
+
+
+
+
 # 19.03.25
 
 * Added belt tension system for the Y belts on the Y motor carriages.
