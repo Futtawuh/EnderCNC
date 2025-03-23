@@ -1,5 +1,7 @@
 # EnderCNC
 
+# Currently undergoing a facelift to all printed parts and additional QOL features. MGN rails version will also be released after the orginal version with facelift is released. 
+
 # Always check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CAD. 
 
 ## VERY VERY BETA project. 
