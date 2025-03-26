@@ -1,3 +1,13 @@
+# 26.03.25
+
+* Uploaded facelift version CAD. This version is NOT tested yet. I will do a full rebuild with this version in the coming weeks.
+![image](https://github.com/user-attachments/assets/f880ce9f-3611-4743-9ddc-0da09ef55727)
+![image](https://github.com/user-attachments/assets/40daebcf-0dcb-4349-9d88-08c9dd2a0238)
+
+
+
+
+
 # 20.03.25
 
 * Udated CAD file. Added new look to the XY joints as the original was kinda lacking in the looks department. Added both dual bearing and single bearing version. (if you want the original one they are also in the CAD) 
