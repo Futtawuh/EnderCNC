@@ -1,3 +1,9 @@
+# 28.04.25
+
+Facelift version built, will do minor tweaking to CAD, but everything fits like it should. New CAD will be uploaded soon.
+
+
+
 # 26.03.25
 
 * Uploaded facelift version CAD. This version is NOT tested yet. I will do a full rebuild with this version in the coming weeks.
