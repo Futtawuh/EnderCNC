@@ -1,3 +1,15 @@
+# 05.05.2025
+
+### There will be multiple versions as time goes on. 
+- Facelift version of the EnderCNC is in "release" stage, CAD wont be updated unless issues arise during use. 
+- New Ender3CNC version soon in "BETA". Base 99% on the Ender 3 PRO. Cheaper alternative on vwheels etc.
+
+Picture of the new version.
+![image](https://github.com/user-attachments/assets/61ea5863-9de6-4253-a72e-803b0a3be79e)
+
+
+
+
 # 28.04.25
 
 Facelift version built, will do minor tweaking to CAD, but everything fits like it should. New CAD will be uploaded soon.
