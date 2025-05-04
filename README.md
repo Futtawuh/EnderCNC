@@ -16,7 +16,7 @@
 - As of now BOM cost is ~60$ not counting the Ender 3 PRO or dremel/spindle. But chances are you have some of the BOM laying around already.
 - This version will include CAD for milling its own aluminium upgrades if it can handle it like the original version. 
 ![image](https://github.com/user-attachments/assets/3ba4e156-9590-4105-879e-a700b752fc1b)
-![image](https://github.com/user-attachments/assets/0c8b3dec-771b-49b5-b45c-cfc451bf8aec)
+![image](https://github.com/user-attachments/assets/c541136f-d08d-40af-9698-95c4150f8b4d)
 BOM and CAD will be released into "BETA" when CAD is "finished".
 
 ### Other versions
