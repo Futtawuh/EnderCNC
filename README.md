@@ -14,7 +14,7 @@
 - Based only on the Ender 3 PRO, where every part from the printer counts to keep the BOM cost very low. This will now be the Ender3CNC.
 - This one will have a 120mm Z axis for those using a dremel, and a 150mm Z axis for those that wants to use a spindle or router.
 - As of now BOM cost is ~60$ not counting the Ender 3 PRO or dremel/spindle. But chances are you have some of the BOM laying around already.
-- This version will include CAD for milling its own aluminium upgrades. 
+- This version will include CAD for milling its own aluminium upgrades if it can handle it like the original version. 
 ![image](https://github.com/user-attachments/assets/3ba4e156-9590-4105-879e-a700b752fc1b)
 ![image](https://github.com/user-attachments/assets/0c8b3dec-771b-49b5-b45c-cfc451bf8aec)
 BOM and CAD will be released into "BETA" when CAD is "finished".
