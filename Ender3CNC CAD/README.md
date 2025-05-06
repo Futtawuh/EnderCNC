@@ -18,8 +18,7 @@
 * maybe belts?
 * screen if you want
 
-![image](https://github.com/user-attachments/assets/3d3042cc-6a47-4027-8dc4-c38ead309ce0)
-![image](https://github.com/user-attachments/assets/eca2baa8-7fb3-43be-a904-0147e4c40714)
-![image](https://github.com/user-attachments/assets/d7a38cf1-9116-49e5-a498-1ce4293cde22)
+![image](https://github.com/user-attachments/assets/3a60e448-90f1-4841-9d86-d10b3f50f8b8)
+![image](https://github.com/user-attachments/assets/c6b2a780-6825-4004-8868-e7fe5fd41072)
 
 
