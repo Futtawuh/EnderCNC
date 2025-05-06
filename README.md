@@ -5,7 +5,7 @@
 ## Current plan has changed a bit. There will be multiple versions of these.
 
 
-- The original EnderCNC underwent a facelift and is tested OK on parts and is now in "release" version and wont have updates unless issues arise. (this was loosely based on the Ender 3 PRO)
+- The original EnderCNC underwent a facelift and is tested OK on parts and is now in "release" version and wont have updates unless issues arise. (this was loosely based on the Ender 3 PRO + Ender 4 parts)
 ![image](https://github.com/user-attachments/assets/9c401c66-4c9e-4997-86d7-50659553de69)
 
 
