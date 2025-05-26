@@ -1,9 +1,16 @@
 # Ender 3 PRO based CNC Build manual (not finished)
 
+
+## Things you'll need. 
+- M5 tap
+- Ability to cut Alu extrusions to lenght.
+- Hexdrives
+- RaspberryPi or old laptop running linux/klipper. (if you want to use klipper)
+- Dremel/Spindle of your choice (You might have to adjust the dremel clamps to fit yours)
+
 ## Bearing Choice
 ### If you dont have 608Z use the F688Z from the Ender 3 Pro X axis tensioner. 
 ![bearing_choice](https://github.com/user-attachments/assets/d841fb1d-110e-4ea4-9d34-9ba2e50c555c)
-
 
 ## M3 Heatsets ( M3x5x4 "Voron spec") 
 
