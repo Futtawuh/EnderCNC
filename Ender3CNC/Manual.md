@@ -2,8 +2,9 @@
 
 
 ## Things you'll need. 
+- Ender 3 PRO (not the non pro version)
 - M5 tap
-- Ability to cut Alu extrusions to lenght.
+- Ability to cut Alu extrusions to length.
 - Hexdrives
 - RaspberryPi or old laptop running linux/klipper. (if you want to use klipper)
 - Dremel/Spindle of your choice (You might have to adjust the dremel clamps to fit yours)
