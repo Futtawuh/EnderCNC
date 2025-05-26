@@ -9,8 +9,8 @@
 - Based only on the Ender 3 PRO, where every part from the printer counts to keep the BOM cost very low. This will now be the Ender3CNC.
 - As of now BOM cost is ~60$ not counting the Ender 3 PRO or dremel/spindle. But chances are you have some of the BOM laying around already.
 - This version will include CAD for milling its own aluminium upgrades if it can handle it like the original version. 
-![image](https://github.com/user-attachments/assets/3a60e448-90f1-4841-9d86-d10b3f50f8b8)
-![image](https://github.com/user-attachments/assets/c6b2a780-6825-4004-8868-e7fe5fd41072)
+![image](https://github.com/user-attachments/assets/df2746be-0fd8-4aa2-b609-81031dc4cfa2)
+![image](https://github.com/user-attachments/assets/43854a83-0945-4e80-aa53-9ccf8a7e4b0b)
 
 BOM and CAD will be released into "BETA" when CAD is "finished".
 
