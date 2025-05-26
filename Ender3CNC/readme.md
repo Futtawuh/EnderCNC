@@ -1,7 +1,10 @@
-# Ender 3 PRO based CNC (Soon TM)
+# Ender 3 PRO based CNC (Soon TM test building starting late May early June, CAD release shortly after) 
 
-- reusing as much as possible from the Ender 3 PRO down to the screws.
-- cheaper BOM than the original EnderCNC. BOM is mostly just some screws, 2x linear rails for Z and m3/m5 tnuts. 
+Check out the ["Build guide"](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/Manual.md) (not finished) 
+
+- Reusing as much as possible from the Ender 3 PRO down to the screws.
+- Cheaper BOM than the original EnderCNC. BOM is mostly just some screws, 2x linear rails for Z and m3/m5 tnuts.
+- Easy to scale up or down to any size if not using Ender 3 Pro frame. 
 
 ### reusing:
 * Frame
