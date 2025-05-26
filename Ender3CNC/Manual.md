@@ -5,7 +5,7 @@
 ![bearing_choice](https://github.com/user-attachments/assets/d841fb1d-110e-4ea4-9d34-9ba2e50c555c)
 
 
-## Heatinsets
+## M3 Heatsets ( M3x5x4 "Voron spec") 
 
 ### Corner Brackets
 ![corner_heatsets](https://github.com/user-attachments/assets/06044989-acee-415d-8073-7125a64f05ce)
