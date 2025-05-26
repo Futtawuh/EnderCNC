@@ -1,5 +1,6 @@
 # Ender 3 PRO based CNC (Soon TM test building starting late May early June, CAD release shortly after) 
-![image](https://github.com/user-attachments/assets/3a60e448-90f1-4841-9d86-d10b3f50f8b8)
+![image](https://github.com/user-attachments/assets/df2746be-0fd8-4aa2-b609-81031dc4cfa2)
+
 
 Check out the ["Build guide"](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/Manual.md) (not finished) 
 
@@ -21,7 +22,8 @@ Check out the ["Build guide"](https://github.com/Futtawuh/EnderCNCs/blob/main/En
 * alu spacers
 * screen if you want
 
-![image](https://github.com/user-attachments/assets/c6b2a780-6825-4004-8868-e7fe5fd41072)
+![image](https://github.com/user-attachments/assets/43854a83-0945-4e80-aa53-9ccf8a7e4b0b)
+
 
 
 
