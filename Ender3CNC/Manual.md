@@ -44,6 +44,7 @@
 ![blind joint front](https://github.com/user-attachments/assets/08630ece-b02c-4bb3-bf43-59ef3e6ea5a9)
 
 ### Back
+* Should be offset by 20mm to gain more Y axis travel.
 ![blind joint back](https://github.com/user-attachments/assets/a60326e6-98f7-465b-b56b-e87a3059d8f2)
 
 ## X->Z Carriage Mounting
