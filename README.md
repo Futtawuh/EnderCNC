@@ -4,7 +4,7 @@
 
 ## Current plan has changed a bit. There will be multiple versions of these.
 
-### A new cheaper version is in the making!
+### A [new cheaper version](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC) is in the making!
 
 - Based only on the Ender 3 PRO, where every part from the printer counts to keep the BOM cost very low. This will now be the Ender3CNC.
 - As of now BOM cost is ~60$ not counting the Ender 3 PRO or dremel/spindle. But chances are you have some of the BOM laying around already.
