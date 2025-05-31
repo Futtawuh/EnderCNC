@@ -48,7 +48,13 @@
   
 ![blind joint back](https://github.com/user-attachments/assets/a60326e6-98f7-465b-b56b-e87a3059d8f2)
 
+
+# The build! 
+
+### DO NOT PRESS IN THE ENDSTOPS AT ANY POINT UNTILL YOU START WIRING! YOU MIGHT NOT GET THEM OUT AGAIN AS THEY ARE PRESSFITS. 
+
 ## Frame
+* DO NOT PRESS IN THE ENDSTOP YET.
 * Assemble frame as shown, take note of blind joints and 20mm offset on the back extrusion and check for square.
   - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable. 
 
