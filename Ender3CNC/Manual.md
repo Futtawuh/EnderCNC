@@ -54,7 +54,8 @@
 ### What is this part? 
 * This is the "X Endstop Buffer". It attaches to the X motor plate on the X endstop side to a heatinset.
 * This "buffer" is needed if you are homing with the vacuum attachment or "splashguards" on to not collide in the Y extrusion.
-* You will not need this attached if you are not using the vacuum attachment. 
+* You will not need this attached if you are not using the vacuum attachment.
+* M3x8/10 screw
 
 ![image](https://github.com/user-attachments/assets/dae67f85-132f-4a61-aa68-f116240c1711)
 ![image](https://github.com/user-attachments/assets/32621413-e2cf-435e-a9be-b557d48f16bb)
@@ -69,15 +70,23 @@
 ## Frame
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Assemble frame as shown, take note of blind joints and 20mm offset on the back extrusion and check for square.
-  - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable. 
+  - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable.
+* 48pc M5x16 BHSC [BUY]
+* 4pc M5x40 [Ender3]
+* 4pc M5x8 [Ender3]
+* 4pc M5 1mm shims [BUY]
+* 52pc m5 T-nuts [BUY]
 
 ![assable_frame](https://github.com/user-attachments/assets/e2e27689-e391-477f-b41b-ad53ba24886d)
 
 ## XY joints
 * DO NOT PRESS IN THE ENDSTOP YET.
-* Assemble XY joints as shown WITHOUT the endstop. 
+* Assemble XY joints as shown WITHOUT the endstop.
+* 8pc M5x45 SHSC [Ender3] (remove the spring shims from these)
+* 8pc M3x10 [BUY]
 
-![assemble_XY_joints](https://github.com/user-attachments/assets/580def93-8cf5-47b4-8840-5386116475d8)
+![image](https://github.com/user-attachments/assets/af060d03-84d5-4548-8cf6-c7b0d1be8810)
+
 
 ## Mount XY joints to the frame. 
 * DO NOT PRESS IN THE ENDSTOP YET.
