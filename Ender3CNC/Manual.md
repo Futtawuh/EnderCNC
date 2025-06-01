@@ -15,6 +15,9 @@
 
 ## M3 Heatsets ( M3x5x4 "Voron spec") 
 
+### X-Motor plate
+![image](https://github.com/user-attachments/assets/7332b77a-6eb4-4d05-9346-cdc946e39018)
+
 ### Corner Brackets
 ![corner_heatsets](https://github.com/user-attachments/assets/06044989-acee-415d-8073-7125a64f05ce)
 
@@ -92,7 +95,7 @@
 
 ![x_beam](https://github.com/user-attachments/assets/ccb7c652-776b-4105-b073-0b292099cf61)
 
-## Assemble ZX Carriage
+## Assemble X+Z Carriage
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Cut 2020 extrusions to 150mm x2 pieces.
 * Tap m5 threads in both ends of the 150mm 2020 extrusions.
@@ -118,7 +121,7 @@
 ![image](https://github.com/user-attachments/assets/81e4dd24-6af0-45d9-aec4-4afe465f2943)
 ![image](https://github.com/user-attachments/assets/1d12b738-2ca4-4740-9579-ff64bf323fd3)
 
-* Attach the Z+X assembly to the XY joint.
+* Attach the X+Z assembly to the XY joint.
 * Run the belts, try making sure that both the Y belts are the same tooth lengts. 
 ![image](https://github.com/user-attachments/assets/607a5e4a-e18d-489b-a4ca-9fc7253c4f90)
 
