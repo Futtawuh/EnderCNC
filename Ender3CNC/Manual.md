@@ -48,6 +48,15 @@
   
 ![blind joint back](https://github.com/user-attachments/assets/a60326e6-98f7-465b-b56b-e87a3059d8f2)
 
+### What is this part? 
+* This is the "X Endstop Buffer". It attaches to the X motor plate on the X endstop side to a heatinset. This "buffer" is needed if you are homing with the vacuum attachment on to not collide in the Y extrusion.
+* You will not need this attached if you are not using the vacuum attachment. 
+
+![image](https://github.com/user-attachments/assets/dae67f85-132f-4a61-aa68-f116240c1711)
+![image](https://github.com/user-attachments/assets/32621413-e2cf-435e-a9be-b557d48f16bb)
+
+
+
 
 # The build! 
 
