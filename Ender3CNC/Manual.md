@@ -68,31 +68,33 @@
 ### DO NOT PRESS IN THE ENDSTOPS AT ANY POINT UNTILL YOU START WIRING! YOU MIGHT NOT GET THEM OUT AGAIN AS THEY ARE PRESSFITS. 
 
 ## Frame
-* DO NOT PRESS IN THE ENDSTOP YET.
-* Assemble frame as shown, take note of blind joints and 20mm offset on the back extrusion and check for square.
-  - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable.
 * 48pc M5x16 BHSC [BUY]
 * 4pc M5x40 [Ender3]
 * 4pc M5x8 [Ender3]
 * 4pc M5 1mm shims [BUY]
 * 52pc m5 T-nuts [BUY]
+* DO NOT PRESS IN THE ENDSTOPS YET.
+* Assemble frame as shown, take note of blind joints and 20mm offset on the back extrusion and check for square.
+  - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable.
 
 ![assable_frame](https://github.com/user-attachments/assets/e2e27689-e391-477f-b41b-ad53ba24886d)
 
 ## XY joints
-* DO NOT PRESS IN THE ENDSTOP YET.
-* Assemble XY joints as shown WITHOUT the endstop.
 * 8pc M5x45 SHSC [Ender3] (remove the spring shims from these)
 * 8pc M3x10 [BUY]
+* 8pc printed 8mm spacer or buy 8mm long 5 bore alu spacers. (Do not use the alu spacers from the Ender3 here)
+* DO NOT PRESS IN THE ENDSTOP YET.
+* Loosely attach the 20T pylleys.
+* Assemble XY joints as shown WITHOUT the endstop.
 
 ![image](https://github.com/user-attachments/assets/af060d03-84d5-4548-8cf6-c7b0d1be8810)
 
 
 ## Mount XY joints to the frame. 
 * DO NOT PRESS IN THE ENDSTOP YET.
-* Attach motors
+* 8pc V-Wheels [Ender3]
+* 8pc M5 locknuts [Ender3 or BUY]
 * Attach wheels+spacers
-* Loosely attach the 20T pylleys.
   - I slid the xy joint on while the frame was built, screw in all 4x2 m5x45 screws.
   - Put on the 2 bottom wheels and loosely add M5 nut to them
   - Place the bottom wheels in the V slot, hold it at a slight angle.
