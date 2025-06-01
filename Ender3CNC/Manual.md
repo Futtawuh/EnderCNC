@@ -107,10 +107,10 @@
   - Put on the 2 bottom wheels and loosely add M5 nut to them.
   - Place the bottom wheels in the V slot, hold it at a slight angle.
   - Add the 2 top wheels to the Vslot and angle up the XY joint with a slight wiggle the top screws should pop in the wheels.
-  - Bit tricky but doable. Or if you want to just take of the 2040 from the frame and slide them on, Will prob need to re-square the frame though.
+  - Bit tricky but doable. Or if you want to just take of the 2040 from the frame and slide them on. Might need to re-square the frame though.
 * After mounting both XY joints, doublecheck the measurement between the X extrusion mounting points before cutting the X extrusion.
 * Ender 3 frames might not be 100% the same. so yours might be +- from 300mm.
-* After cutting the X extrusion to size you need to tap 4 new m5 threads on the cut side
+* After cutting the X extrusion to size you need to tap 4 new m5 threads on the cut side.
 
 ![x_beam](https://github.com/user-attachments/assets/ccb7c652-776b-4105-b073-0b292099cf61)
 
