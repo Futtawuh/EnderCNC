@@ -133,7 +133,7 @@
 | 8pc   | M3x10 BHSC              | Ender3   |                              |
 
 * DO NOT PRESS IN THE ENDSTOP YET.
-* Cut 2020 extrusions to 150mm x2 pieces.
+* Cut Ender3 2020 extrusions to 150mm x2 pieces.
 * Tap m5 threads in both ends of the 150mm 2020 extrusions.
 * Press in bearings if you didnt already.
 * Loosely attach the coupler to the Z motor.
