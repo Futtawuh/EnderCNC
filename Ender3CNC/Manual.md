@@ -122,7 +122,7 @@
 | 10pc  | M5x16 BHSC              | BUY      |                              |
 | 2pc   | M5x8 BHSC               | Ender3   |                              |
 | 4pc   | M3x40                   | Ender3   |                              |
-| 4pc   | M5x45 SHCH              | Ender3   | Remove the shims            |
+| 4pc   | M5x45 SHCH              | Ender3   | Remove the shims             |
 | 1pc   | M5x65 BHSC              | BUY      |                              |
 | 12pc  | M3x8 SHSC               | BUY      |                              |
 | 2pc   | M3x16 BHSC              | Ender3   |                              |
@@ -130,6 +130,7 @@
 | 1pc   | 28.35mm Printed Spacer  | Printed  |                              |
 | 5pc   | V-wheels                | Ender3   |                              |
 | 4pc   | 32.60 mm spacer         | Printed  |                              |
+| 8pc   | M3x10 BHSC              | Ender3   |                              |
 
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Cut 2020 extrusions to 150mm x2 pieces.
@@ -156,9 +157,23 @@
 ![image](https://github.com/user-attachments/assets/81e4dd24-6af0-45d9-aec4-4afe465f2943)
 ![image](https://github.com/user-attachments/assets/1d12b738-2ca4-4740-9579-ff64bf323fd3)
 
-* Attach the X+Z assembly to the XY joint.
-* Run the belts, try making sure that both the Y belts are the same tooth lengts. 
-![image](https://github.com/user-attachments/assets/607a5e4a-e18d-489b-a4ca-9fc7253c4f90)
+## Attach the X+Z assembly to the XY joint.
+| Qty  | Item         | Source  | Notes |
+|------|--------------|---------|-------|
+| 8pc  | M5x30 BHSC   | Ender3  |       |
+| 4pc  | M5x16 BHSC   | BUY     |       |
+
+![image](https://github.com/user-attachments/assets/5dcf89d9-cb52-42a5-8f56-694e93f29057)
+
+## Run the belts
+| Qty  | Item                      | Source  | Notes                                      |
+|------|---------------------------|---------|--------------------------------------------|
+| 3pc  | ~500mm GT2 6mm Belt       | BUY     | Control measure before cutting to length!! |
+| 12pc | M3x10                     | BUY     | Migth be some spares from the Ender3       |
+| 6pc  | Printed Belt Clamp        | Printed |                                            |
+
+![image](https://github.com/user-attachments/assets/deb2774b-ea59-430a-a367-10d460285eb0)
+
 
 
 # TO BE CONTINUED
