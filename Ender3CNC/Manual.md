@@ -127,8 +127,9 @@
 | 12pc  | M3x8 SHSC               | BUY      |                              |
 | 2pc   | M3x16 BHSC              | Ender3   |                              |
 | 9pc   | Alu Spacers             | Ender3   |                              |
-| 1pc   | 28.35mm Printed Spacer  | —        |                              |
+| 1pc   | 28.35mm Printed Spacer  | Printed  |                              |
 | 5pc   | V-wheels                | Ender3   |                              |
+| 4pc   | 32.60 mm spacer         | Printed  |                              |
 
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Cut 2020 extrusions to 150mm x2 pieces.
