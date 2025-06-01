@@ -80,7 +80,7 @@
 ![assable_frame](https://github.com/user-attachments/assets/e2e27689-e391-477f-b41b-ad53ba24886d)
 
 ## XY joints
-* 8pc M5x45 SHSC [Ender3] (remove the spring shims from these)
+* 8pc M5x45 SHSC [Ender3] (remove the shims from these)
 * 8pc M3x10 [BUY]
 * 8pc printed 8mm spacer or buy 8mm long 5 bore alu spacers. (Do not use the alu spacers from the Ender3 here)
 * DO NOT PRESS IN THE ENDSTOP YET.
@@ -94,9 +94,8 @@
 * DO NOT PRESS IN THE ENDSTOP YET.
 * 8pc V-Wheels [Ender3]
 * 8pc M5 locknuts [Ender3 or BUY]
-* Attach wheels+spacers
-  - I slid the xy joint on while the frame was built, screw in all 4x2 m5x45 screws.
-  - Put on the 2 bottom wheels and loosely add M5 nut to them
+  - I slid the xy joint on while the frame was built.
+  - Put on the 2 bottom wheels and loosely add M5 nut to them.
   - Place the bottom wheels in the V slot, hold it at a slight angle.
   - Add the 2 top wheels to the Vslot and angle up the XY joint with a slight wiggle the top screws should pop in the wheels.
   - Bit tricky but doable. Or if you want to just take of the 2040 from the frame and slide them on, Will prob need to re-square the frame though.
@@ -107,6 +106,18 @@
 ![x_beam](https://github.com/user-attachments/assets/ccb7c652-776b-4105-b073-0b292099cf61)
 
 ## Assemble X+Z Carriage
+* 4pc M3x8 BHSC [Ender3]
+* 2pc M3x10 [BUY]
+* 10pc M5x16 BHSC [BUY]
+* 2pc M5x8 BHSC [Ender3]
+* 4pc M3x40 [Ender3]
+* 4pc M5x45 SHCH [Ender3] (remove the shims from these)
+* 1pc M5x65 BHSC [BUY]
+* 12pc M3x8 SHSC [BUY]
+* 2pc M3x16 BHSC [Ender3]
+* 9pc Alu Spacers [Ender3]
+* 1pc 28.35mm printed spacer.
+* 5pc V-wheels [Ender3]
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Cut 2020 extrusions to 150mm x2 pieces.
 * Tap m5 threads in both ends of the 150mm 2020 extrusions.
