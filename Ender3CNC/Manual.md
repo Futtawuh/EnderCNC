@@ -68,11 +68,14 @@
 ### DO NOT PRESS IN THE ENDSTOPS AT ANY POINT UNTILL YOU START WIRING! YOU MIGHT NOT GET THEM OUT AGAIN AS THEY ARE PRESSFITS. 
 
 ## Frame
-* 48pc M5x16 BHSC [BUY]
-* 4pc M5x40 [Ender3]
-* 4pc M5x8 [Ender3]
-* 4pc M5 1mm shims [BUY]
-* 52pc m5 T-nuts [BUY]
+| Qty  | Item           | Source  | Notes |
+|------|----------------|---------|-------|
+| 48pc | M5x16 BHSC     | BUY     |       |
+| 4pc  | M5x40          | Ender3  |       |
+| 4pc  | M5x8           | Ender3  |       |
+| 4pc  | M5 1mm Shims   | BUY     |       |
+| 52pc | M5 T-nuts      | BUY     |       |
+
 * DO NOT PRESS IN THE ENDSTOPS YET.
 * Assemble frame as shown, take note of blind joints and 20mm offset on the back extrusion and check for square.
   - I found it easier to get a square frame on a known flat surface by adding the XY joints after the frame is built. Its a bit tricky, but very doable.
@@ -80,9 +83,12 @@
 ![assable_frame](https://github.com/user-attachments/assets/e2e27689-e391-477f-b41b-ad53ba24886d)
 
 ## XY joints
-* 8pc M5x45 SHSC [Ender3] (remove the shims from these)
-* 8pc M3x10 [BUY]
-* 8pc printed 8mm spacer or buy 8mm long 5 bore alu spacers. (Do not use the alu spacers from the Ender3 here)
+| Qty  | Item                                   | Source | Notes                                                  |
+|------|----------------------------------------|--------|--------------------------------------------------------|
+| 8pc  | M5x45 SHSC                             | Ender3 | Remove the shims from these                           |
+| 8pc  | M3x10                                   | BUY    |                                                        |
+| 8pc  | 8mm Spacer (Printed or 5mm bore Alu)   | BUY    | Do not use the aluminum spacers from the Ender3 here  |
+
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Loosely attach the 20T pylleys.
 * Assemble XY joints as shown WITHOUT the endstop.
@@ -91,9 +97,12 @@
 
 
 ## Mount XY joints to the frame. 
+| Qty  | Item         | Source         | Notes |
+|------|--------------|----------------|-------|
+| 8pc  | V-Wheels     | Ender3         |       |
+| 8pc  | M5 Locknuts  | Ender3 or BUY  |       |
+
 * DO NOT PRESS IN THE ENDSTOP YET.
-* 8pc V-Wheels [Ender3]
-* 8pc M5 locknuts [Ender3 or BUY]
   - I slid the xy joint on while the frame was built.
   - Put on the 2 bottom wheels and loosely add M5 nut to them.
   - Place the bottom wheels in the V slot, hold it at a slight angle.
@@ -106,18 +115,21 @@
 ![x_beam](https://github.com/user-attachments/assets/ccb7c652-776b-4105-b073-0b292099cf61)
 
 ## Assemble X+Z Carriage
-* 4pc M3x8 BHSC [Ender3]
-* 2pc M3x10 [BUY]
-* 10pc M5x16 BHSC [BUY]
-* 2pc M5x8 BHSC [Ender3]
-* 4pc M3x40 [Ender3]
-* 4pc M5x45 SHCH [Ender3] (remove the shims from these)
-* 1pc M5x65 BHSC [BUY]
-* 12pc M3x8 SHSC [BUY]
-* 2pc M3x16 BHSC [Ender3]
-* 9pc Alu Spacers [Ender3]
-* 1pc 28.35mm printed spacer.
-* 5pc V-wheels [Ender3]
+| Qty   | Item                    | Source   | Notes                        |
+|-------|-------------------------|----------|------------------------------|
+| 4pc   | M3x8 BHSC               | Ender3   |                              |
+| 2pc   | M3x10                   | BUY      |                              |
+| 10pc  | M5x16 BHSC              | BUY      |                              |
+| 2pc   | M5x8 BHSC               | Ender3   |                              |
+| 4pc   | M3x40                   | Ender3   |                              |
+| 4pc   | M5x45 SHCH              | Ender3   | Remove the shims            |
+| 1pc   | M5x65 BHSC              | BUY      |                              |
+| 12pc  | M3x8 SHSC               | BUY      |                              |
+| 2pc   | M3x16 BHSC              | Ender3   |                              |
+| 9pc   | Alu Spacers             | Ender3   |                              |
+| 1pc   | 28.35mm Printed Spacer  | —        |                              |
+| 5pc   | V-wheels                | Ender3   |                              |
+
 * DO NOT PRESS IN THE ENDSTOP YET.
 * Cut 2020 extrusions to 150mm x2 pieces.
 * Tap m5 threads in both ends of the 150mm 2020 extrusions.
