@@ -9,6 +9,7 @@
 - Hexdrives
 - RaspberryPi or old laptop running linux/klipper. (if you want to use klipper)
 - Dremel/Spindle of your choice (You might have to adjust the dremel clamps to fit yours)
+- Printed pressfit pulley extraction tool (this can be tricky, but you can also cut the off if you want)
 
 ## Bearing Choice
 ### If you dont have 608Z use the F688Z from the Ender 3 Pro X axis tensioner. 
