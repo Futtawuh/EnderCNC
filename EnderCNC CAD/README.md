@@ -2,7 +2,7 @@ Cheaper version? - > ["E3CNC"](https://github.com/Futtawuh/EnderCNCs/tree/main/E
 
 # CAD file for the original EnderCNC
 
-- Loosely based on the Ender 3 pro with some extras. 
+- Loosely based on the Ender 3 pro + Ender 4 with some extras. 
 - Made to use up my old spare parts.
 
 https://github.com/user-attachments/assets/380edf0b-43fd-45f2-9f59-4e6d6528cb2b
