@@ -11,6 +11,8 @@
 - Dremel/Spindle of your choice (You might have to adjust the dremel clamps to fit yours)
 - Printed pressfit pulley extraction tool (this can be tricky, but you can also cut the off if you want)
 
+## Print settings I used: PLA+, 5 wall, 5 top, 5 bottom, 40% gyroid.
+
 ## Bearing Choice
 ### If you dont have 608Z use the F688Z from the Ender 3 Pro X axis tensioner. 
 ![bearing_choice](https://github.com/user-attachments/assets/d841fb1d-110e-4ea4-9d34-9ba2e50c555c)
