@@ -1,3 +1,12 @@
+# 04.06.2025
+
+### Ender3pro-CNC CAD uploaded!
+- Fully built by me and a "beta" tester. Everything should fit nicely and easy enough to assemble!
+- Build guide still not 100% finished, but it should give most pointers that you need
+- Build guide and CAD is found ["HERE!"](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC)
+- If you need .step contact me on Discord: ravenkeeper (filesize too big to upload)
+
+
 # 05.05.2025
 
 ### There will be multiple versions as time goes on. 
