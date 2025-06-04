@@ -4,6 +4,8 @@
 ## Fully built!
 https://github.com/user-attachments/assets/6816d12f-9653-461b-ad77-0ac71268e209
 
+Print settings I used: PLA+, 5 wall, 5 top, 5 bottom, 40% gyroid.
+
 
 Check out the ["Build guide"](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/Manual.md) (not finished) 
 
