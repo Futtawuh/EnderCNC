@@ -26,7 +26,7 @@ BOM and CAD will be released into "BETA" when CAD is "finished".
 
 # Always check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CADs. 
 
-Here are some videos from the original EnderCNC pre facelift using a 200w 20$ dremel.  
+Here are some videos from the original EnderCNC pre facelift using a 150W 20$ dremel.  
 
 https://github.com/user-attachments/assets/92859aa1-7ed4-4385-81ab-ec51dbf1d837
 
