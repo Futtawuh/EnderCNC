@@ -1,3 +1,8 @@
+# 14.06.2025
+- Had to wait for a new dremel as my new one was DOA. It arrived today, furter testing and cutting videos will be uploaded shortly!
+- Will be testing differnt kinds of wood, some types of Plexi/acrylic and ofcourse some unknow grade aluminium. 
+
+
 # 04.06.2025
 
 ### Ender3pro-CNC CAD uploaded!
@@ -27,7 +32,7 @@ Facelift version built, will do minor tweaking to CAD, but everything fits like 
 
 # 26.03.25
 
-* Uploaded facelift version CAD. This version is NOT tested yet. I will do a full rebuild with this version in the coming weeks.
+* Uploaded facelift version CAD. This version is tested OK, does alu with a dremel pretty nicely if you know how to tune your DOC, feeds and speeds. 
 ![image](https://github.com/user-attachments/assets/f880ce9f-3611-4743-9ddc-0da09ef55727)
 ![image](https://github.com/user-attachments/assets/40daebcf-0dcb-4349-9d88-08c9dd2a0238)
 
