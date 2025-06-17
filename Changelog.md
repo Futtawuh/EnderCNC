@@ -1,3 +1,8 @@
+# 18.06.2025
+- Macros for XYZ-0 positioning uploaded. 
+- Tested out vac attachment, seems to do its job on wood, will test more on different materials. 
+
+
 # 14.06.2025
 - Had to wait for a new dremel as my new one was DOA. It arrived today, furter testing and cutting videos will be uploaded shortly!
 - Will be testing differnt kinds of wood, some types of Plexi/acrylic and ofcourse some unknow grade aluminium. 
