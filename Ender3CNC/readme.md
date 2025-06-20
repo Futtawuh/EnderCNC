@@ -8,7 +8,7 @@ Print settings I used: PLA+, 5 wall, 5 top, 5 bottom, 40% gyroid.
 
 ## My setup:
 
-Im just running the original MCU with Klipper for the control and Fusion360 for CAM (free version) with a klipperized post processor. So far nonreal issues. You might want to swap to a board with TMC control (skr pico/micro4) if you realy want to push it.  Im using an old laptop with Ubuntu with klipper on as a substitute for a Raspberry pi. 
+Im just running the original MCU with Klipper for the control and Fusion360 for CAM (free version) with a klipperized post processor. So far no real issues. You might want to swap to a board with TMC control (skr pico/micro4) if you realy want to push it.  Im using an old laptop with Ubuntu with klipper on as a substitute for a Raspberry pi. 
 
 You can ofcourse go the GRBL route if you want. I just wanted to use klipper since people coming from 3D printers are somewhat familiar with that.
 
