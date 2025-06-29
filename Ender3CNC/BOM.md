@@ -1,5 +1,7 @@
 # This is just a reference BOM from my own build and CAD. I might have counted wrong. If you find any issues please let me know. 
 
+## I've tried to keep the BOM parts as close as possible to a Voron 3d Printer build in hopes people already have some of the BOM already.
+
 # Screws from Ender 3 Pro
 
 - 2x m5x30 button head from e3p z axis vwheel holder.  [ENDER3]
