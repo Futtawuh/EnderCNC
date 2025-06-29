@@ -1,6 +1,6 @@
 # 29.06.2025
 - Added optional front corners, adding 20mm extra Y cutting area. No changes to BOM.
-- These are not added to the main CAD yet. But you can find them ["here"](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC/Mods)
+- These are not added to the main CAD yet. But you can find them [here](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC/Mods)
 
 
 # 18.06.2025
