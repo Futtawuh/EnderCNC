@@ -1,4 +1,4 @@
-# This is just a reference BOM from my own build and CAD. If you find any issues please let me know. 
+# This is just a reference BOM from my own build and CAD. I might have counted wrong. If you find any issues please let me know. 
 
 # Screws from Ender 3 Pro
 
