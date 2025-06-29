@@ -1,3 +1,8 @@
+# 29.06.2025
+- Added optional front corners, adding 20mm extra Y cutting area. No changes to BOM. 
+- You can find them ["here"](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC/Mods)
+
+
 # 18.06.2025
 - Macros for XYZ-0 positioning uploaded. 
 - Tested out vac attachment, seems to do its job on wood, will test more on different materials. 
